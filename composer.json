@@ -1,5 +1,5 @@
 {
-    "name": "ovr/phalcony",
+    "name": "joacub/phalcony",
     "description": "Library for expansion the base functional of Phalcon framework.",
     "type": "library",
     "license": "MIT",
